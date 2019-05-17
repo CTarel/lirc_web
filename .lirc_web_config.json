@@ -204,7 +204,7 @@
      "Marantz_RC-52CD": "Lecteur CD",
      "Harman-Kardon_HK3490": "Ampli Harman-Kardon",
      "PioneerN50": "DAC Pioneer N50",
-     "SamsungTV": "TV Samsung"
+     "SamsungTV": "TV Samsung",
      "SonyAVSystem": "Ampli BD Sony"
   },
   "socket": "/run/lirc/lircd"
