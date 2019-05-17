@@ -163,7 +163,7 @@
       "tune_down": "P-",
       "KEY_CLEAR": "Clear"
     },
-     "SonyAVSystem": {
+    "SonyAVSystem": {
       "KEY_POWER": "power",
       "KEY_EJECTCD": "eject",
       "KEY_UP": "Up",
